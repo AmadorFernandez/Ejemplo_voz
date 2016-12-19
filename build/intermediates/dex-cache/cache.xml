@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/amador/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_8a7e5e575815382dff71be3479c55c084adbff41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bc3243d72d464611b95d6a86f655a08d34a1e61">
+        <dex dex="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f025a7e33d8a2493b85e4b9917bb835af4b14913/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_d076df78b9e5e6c191518b19cb773f61cb2ce0a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_02f42f2cb14fc24e258ac3f408b2a268212ddcaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_251d189a445c9b4012c8268f8888454360e5984b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_8dd3b968b4d4253e9df60fc83996f726c9195774/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_e4830ea0ab75bc524da1f0e15845ab5c18f876d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_88b50f654ba09175ee287df93502d3e9d0e52aa4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_618a08579202a2b0152b804038aeb7afb71fdb76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e23bd9124a7f5facb2e910025b1349c24c1b4b4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_8284189aa2b6832ef2d670c0bb8118c54bace183/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amador/Descargas/drive-download-20161207T174059Z/app/libs/gson-2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd858833cacb4e6742f7698649fb874a360e230f">
+        <dex dex="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.1_6e1b45d3fc84fd413b00e0292e67beb87e472df9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3ea737a825f1a1acfc4890d50752530ac43da013">
+        <dex dex="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_78366f172585f34a0e7daa5a33b329a2c6e8687f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_11bf19c2d7585e8274ce04fa383336c1a773df70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_4e6d77633a10481ddd358ab4f6e5f038fef3c48b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amador/Descargas/drive-download-20161207T174059Z/app/libs/commons-math-2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b3c4bdc2778ddccceb8da2acec3e37bfa41303e9">
+        <dex dex="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-math-2.1_e076736a258c83a5e86b2f5625cb85733db0333b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_9011b6c241ca1a3a46ad3c2c77ea5b4f28f0af37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8c76f1ca004500df4113ce0540811f4880dc8e81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1a4718cc028c4f77ef0f5ef0eb5a74c9d3db7df0/classes.dex" />
+    </item>
+
+</items>

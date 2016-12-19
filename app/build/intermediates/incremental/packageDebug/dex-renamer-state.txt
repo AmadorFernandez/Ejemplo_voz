@@ -1,0 +1,7 @@
+#Thu Dec 08 00:30:48 CET 2016
+base.0=/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_78366f172585f34a0e7daa5a33b329a2c6e8687f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f025a7e33d8a2493b85e4b9917bb835af4b14913/classes.dex
+base.1=/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f025a7e33d8a2493b85e4b9917bb835af4b14913
+file.0=/home/amador/Descargas/drive-download-20161207T174059Z/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_78366f172585f34a0e7daa5a33b329a2c6e8687f/classes.dex
